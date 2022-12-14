@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sleepy-jelly
 - 👀 I’m interested in java programing ...
-- 🌱 I’m currently learning java (front end)
+- 🌱 I’m currently learning java, javascript(front end)
 - 📫 How to reach me (wip..)
 
 <!---
