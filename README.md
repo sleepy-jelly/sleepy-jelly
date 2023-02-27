@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @sleepy-jelly
 - 👀 I’m interested in java,web programing ...
-- 🌱 I’m currently learning java, javascript(front end)
+- 🌱 I’m currently learning java, javascript(jsp, css,  etc)
 - 📫 How to reach me (wip..)
+
+
+
 
 <!---
 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
