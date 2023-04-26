@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sleepy-jelly
-- 👀 I’m interested in java,web programing ...
+- ✨ Hi, I’m @sleepy-jelly
+- ✨ I’m interested in java,web programing ...
 - 🌱 I’m currently doing java, javascript(jsp, css,  etc)
 - 📫 How to reach me (kernel2015@naver.com)
 
