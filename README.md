@@ -1,6 +1,4 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleepy-jelly&theme=dark&show_icons=true)
-
 
 <!---
 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
