@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepy-jelly)](https://github.com/sleepy-jelly/github-readme-stats)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuijinKang&show_icons=true&theme=radical&count_private=true)
+
 
 
 
