@@ -5,9 +5,6 @@
 
 
 
-Clean Code: A Handbook of Agile Software Craftsmanship
-
-
 <!---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleepy-jelly&show_icons=true&theme=radical&count_private=true)
 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
