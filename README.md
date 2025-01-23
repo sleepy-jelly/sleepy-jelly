@@ -112,11 +112,11 @@
 🚀 CI/CD
 </h2>
 
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Atlassian%20BitBucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Atlassian Bamboo](https://img.shields.io/badge/Atlassian%20Bamboo-0052CC.svg?style=for-the-badge&logo=Bamboo&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-
 
 <h2>
 🗄️ TESTING,ETC
