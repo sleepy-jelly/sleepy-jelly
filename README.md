@@ -85,8 +85,6 @@
 </h2>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white)
 
@@ -95,7 +93,6 @@
 🔨 Build
 </h2>
 
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white)
 
@@ -106,14 +103,12 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![Red Hat JBoss EAP](https://img.shields.io/badge/Red%20Hat%20JBoss%20EAP-EE0000.svg?style=for-the-badge&logo=redhat&logoColor=black)
-![Java EE](https://img.shields.io/badge/Java%20EE%20-EE0000.svg?style=for-the-badge&logo=oracle&logoColor=black)
 
 <h2>
 🚀 CI/CD
 </h2>
 
 ![Bitbucket](https://img.shields.io/badge/Atlassian%20BitBucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Atlassian Bamboo](https://img.shields.io/badge/Atlassian%20Bamboo-0052CC.svg?style=for-the-badge&logo=Bamboo&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -124,7 +119,6 @@
 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 ![BurpSuite](https://img.shields.io/badge/Burp%20Suite-FF6633.svg?style=for-the-badge&logo=Burp-Suite&logoColor=white)
 
 <h2>
